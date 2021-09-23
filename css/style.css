@@ -280,8 +280,15 @@ height: 500px;
     margin: 17px ;font-size: 1.5rem;
     border-radius: 25px;
     cursor: pointer;
+    text-align: center;
 
 }
+
+.btn:hover{
+    color: orangered;
+    background-color: white;
+}
+
 .center{
     text-align: center;
  
